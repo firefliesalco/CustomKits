@@ -1,0 +1,14 @@
+name: CustomKits 
+main: com.firefliesalco.www.CustomKits
+version: 1.0
+commands:
+  addkit:
+    description: Add a kit
+    usage: /addkit <name> <display name>
+  delkit:
+    description: Delete a kit
+    usage: /delkit <name>
+  gkit:
+    description: Open the kit gui
+    usage: /gkit
+    
